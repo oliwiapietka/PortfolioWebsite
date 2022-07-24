@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioWebsite/static/css/main.9667a1b2.css",
-    "main.js": "/PortfolioWebsite/static/js/main.f1b537c4.js",
+    "main.js": "/PortfolioWebsite/static/js/main.91e33081.js",
     "static/js/787.27ca2965.chunk.js": "/PortfolioWebsite/static/js/787.27ca2965.chunk.js",
     "static/media/bookingappmainscreen.png": "/PortfolioWebsite/static/media/bookingappmainscreen.a7638e0c2ebcdddcb8fa.png",
     "static/media/exploreimg.png": "/PortfolioWebsite/static/media/exploreimg.72aedea7810f7b97b28c.png",
@@ -37,11 +37,11 @@
     "static/media/logogithub.svg": "/PortfolioWebsite/static/media/logogithub.080591513b1a3eb8fdfe0257830eaff1.svg",
     "static/media/logolinkedin.svg": "/PortfolioWebsite/static/media/logolinkedin.9ab1461c9a828786baf729f786e1c2f3.svg",
     "main.9667a1b2.css.map": "/PortfolioWebsite/static/css/main.9667a1b2.css.map",
-    "main.f1b537c4.js.map": "/PortfolioWebsite/static/js/main.f1b537c4.js.map",
+    "main.91e33081.js.map": "/PortfolioWebsite/static/js/main.91e33081.js.map",
     "787.27ca2965.chunk.js.map": "/PortfolioWebsite/static/js/787.27ca2965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9667a1b2.css",
-    "static/js/main.f1b537c4.js"
+    "static/js/main.91e33081.js"
   ]
 }
