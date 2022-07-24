@@ -65,7 +65,7 @@ const Banner = () => {
               mainly focused on Javascript and React.
             </p>
             <button>
-              <a href='https:www.linkedin.com/in/oliwia-piętka-223b4b233'>Let's Connect</a> <ArrowRightCircle size={25} />{" "}
+              <a href='https://www.linkedin.com/in/oliwia-piętka-223b4b233'>Let's Connect</a> <ArrowRightCircle size={25} />{" "}
             </button>
             {/* </h1> */}
           </Col>

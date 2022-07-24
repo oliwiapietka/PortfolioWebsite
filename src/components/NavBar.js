@@ -69,7 +69,7 @@ const NavBar = () => {
               <a href="https://github.com/oliwiapietka">
                 <img src={logogithub} />
               </a>
-              <a href="https:www.linkedin.com/in/oliwia-piętka-223b4b233">
+              <a href="https://www.linkedin.com/in/oliwia-piętka-223b4b233">
                 <img src={logolinkedin} />
               </a>
             </div>
